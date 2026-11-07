@@ -8,10 +8,10 @@ Classification of white blood cells from blood-smear microscopy images into **13
 
 | Metric | Score |
 |---|---|
-| Validation macro-F1 (best epoch, EMA weights) | `TODO` |
-| Validation macro-F1 after per-class weight tuning | `TODO` |
-| Public leaderboard | `TODO` |
-| Private leaderboard | `TODO` |
+| Validation macro-F1 (best epoch, EMA weights) | `0.781` |
+| Validation macro-F1 after per-class weight tuning | `0.804` |
+| Public leaderboard | `7` |
+| Private leaderboard | `3` |
 
 ## Problem
 
